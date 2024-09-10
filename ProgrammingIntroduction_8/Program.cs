@@ -2,6 +2,7 @@
 
 using System.Diagnostics;
 
+// comment by TS
 
 // example 0 - first program
 Console.WriteLine("Hello World!");
